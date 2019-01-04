@@ -10,7 +10,7 @@
 1. 词条数目统计
 2. 结巴自带的 TF-IDF 算法、
 3. 结巴自带的 TextRank 算法、
-4. Scikit-Learn 包中的 TF-IDF 算法。
+4. [Scikit-Learn](https://github.com/scikit-learn/scikit-learn) 包中的 TF-IDF 算法。
 
 ## 安装
 
